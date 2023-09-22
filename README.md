@@ -191,5 +191,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 ## Authors
-- Caleb Ini. Duff
-- Okpara Onyedikachi G
+- Zezetu Sibara & Sibusiso Ndlovu
